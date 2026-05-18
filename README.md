@@ -1,5 +1,7 @@
 # Password Generator
 
+🔗 **Live Site:** [https://wondrous-cactus-701abb.netlify.app](https://wondrous-cactus-701abb.netlify.app)
+
 A simple yet polished password generator web app built with HTML, CSS, and JavaScript.
 
 ## Project Overview
